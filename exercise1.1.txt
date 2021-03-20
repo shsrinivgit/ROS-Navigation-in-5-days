@@ -1,0 +1,3 @@
+executed the launch codes
+moved the Robot using keyboad
+Mapping is done in Rviz
