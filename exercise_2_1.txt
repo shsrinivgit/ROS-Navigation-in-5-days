@@ -1,0 +1,4 @@
+executed the launch codes
+launched the Rviz display
+Added the LaserScan, Map,
+Chnaged the size of laserscan to 0.05
