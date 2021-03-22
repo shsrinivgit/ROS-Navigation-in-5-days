@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="tf" type="static_transform_publisher" name="static_transform_publisher" 
+          args="0 0 1 0 0 0 base_link kinect_camera 1">
+    </node>
+</launch>
