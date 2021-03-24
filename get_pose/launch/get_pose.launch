@@ -1,0 +1,8 @@
+<launch>
+    <include file="$(find husky_navigation)/launch/amcl_demo.launch" />
+    <node pkg="get_pose"
+        type ="get_pose_service.py"
+        name="get_pose"
+        output="screen">
+    </node>
+</launch>
