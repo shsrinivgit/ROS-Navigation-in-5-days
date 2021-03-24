@@ -1,0 +1,2 @@
+Added the LaseScan and Map to visualize
+Used 2D pose estimate tool and moved the robot around
