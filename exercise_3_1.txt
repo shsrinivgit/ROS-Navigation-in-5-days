@@ -1,0 +1,3 @@
+launch the "roslaunch husky_navigation amcl_demo.launch"
+Launched rviz, "rosrun rviz rviz"
+Visualized the particle cloud through the Rviz
