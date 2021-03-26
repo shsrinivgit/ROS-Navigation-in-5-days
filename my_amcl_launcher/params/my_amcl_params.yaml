@@ -1,0 +1,3 @@
+odom_model_type: "diff"
+max_particles: 5
+min_particles: 1
