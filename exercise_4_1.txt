@@ -1,0 +1,3 @@
+Exercise started with launching the move_base node
+added costmap
+added pose
