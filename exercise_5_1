@@ -1,0 +1,3 @@
+Launched the Rviz
+Added displays to visualize the /global_plan and /local_plan
+Sent goal pose and visualized
