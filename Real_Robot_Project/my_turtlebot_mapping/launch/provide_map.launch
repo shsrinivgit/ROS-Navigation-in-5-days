@@ -1,0 +1,8 @@
+<launch>
+    <!-- <arg name="map_ser" default="/home/user/catkin_ws/src/shsriniv_nav5/my_map.yaml"/> -->
+    <node pkg="map_server"
+        type ="map_server"
+        name="map_server"
+        args="/home/user/catkin_ws/src/my_turtlebot_mapping/maps/my_map_file.yaml">
+    </node>
+</launch>
