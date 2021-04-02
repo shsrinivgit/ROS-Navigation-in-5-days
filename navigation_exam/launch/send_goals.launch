@@ -1,0 +1,7 @@
+<launch>
+  <!--- Run AMCL -->
+  <include file="$(find navigation_exam)/launch/path_planning.launch" />
+  
+  <node pkg="navigation_exam" type="send_goals.py" name="sending_goal" output="screen">
+  </node>
+</launch>
